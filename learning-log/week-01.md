@@ -14,6 +14,10 @@ Create a reproducible learning and portfolio system for Healthcare AI and Data S
 - [x] Completed the logistic-regression laboratory
 - [ ] Add the logistic-regression laboratory to this repository
 - [ ] Verify that the laboratory runs from beginning to end
+- [x] Documented the core Git and GitHub concepts in the main README
+- [x] Completed the 0–3 baseline skills assessment
+- [x] Created the requirements environment file
+- [x] Created the six required GitHub Issues
 
 ## Concepts to Review
 

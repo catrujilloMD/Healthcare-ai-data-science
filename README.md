@@ -17,6 +17,37 @@ I am Camilo Andres Trujillo, MD, developing expertise at the intersection of cli
 My goal is to build evidence-based solutions that improve healthcare operations, population health, and clinical decision support.
 
 
+## Core Git and GitHub Concepts
+
+- **Git:** A version-control system that records changes made to files over time.
+- **GitHub:** An online platform used to store, share, and collaborate on Git repositories.
+- **Repository:** A project folder whose files and revision history are managed by Git.
+- **Commit:** A named snapshot of staged changes in a repository.
+- **README:** The main documentation file that explains a repository's purpose, structure, setup, and use.
+
+## Baseline Skills Assessment
+
+This baseline records my current level at the beginning of the program.
+
+### Rating Scale
+
+- **0 — Unfamiliar:** I have not learned or practiced the skill.
+- **1 — Basic understanding:** I understand introductory concepts but need guidance.
+- **2 — Developing independence:** I can complete some work independently with occasional help.
+- **3 — Independent:** I can build, troubleshoot, and explain work independently.
+
+| Skill Domain | Baseline |
+|---|---:|
+| Python | 2 |
+| SQL | 1 |
+| Statistics | 2 |
+| Pandas | 0 |
+| Data visualization | 1 |
+| Machine learning | 1 |
+| Git/GitHub | 1 |
+| APIs | 0 |
+| Healthcare analytics | 2 |
+| Generative AI | 2 |
 
 \## Repository Structure
 
