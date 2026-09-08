@@ -18,6 +18,7 @@ Create a reproducible learning and portfolio system for Healthcare AI and Data S
 - [x] Completed the 0–3 baseline skills assessment
 - [x] Created the requirements environment file
 - [x] Created the six required GitHub Issues
+- [x] Stated the portfolio goal and included all eight required portfolio themes
 
 ## Concepts to Review
 

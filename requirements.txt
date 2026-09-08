@@ -1,7 +1,6 @@
-jupyterlab
-matplotlib
 numpy
 pandas
-pytest
+matplotlib
 scikit-learn
-seaborn
+jupyter
+flask

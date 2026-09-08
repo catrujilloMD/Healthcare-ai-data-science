@@ -16,6 +16,20 @@ I am Camilo Andres Trujillo, MD, developing expertise at the intersection of cli
 
 My goal is to build evidence-based solutions that improve healthcare operations, population health, and clinical decision support.
 
+## Portfolio Goal
+
+Build expertise at the intersection of Medicine + Data Science + Machine Learning + Artificial Intelligence.
+
+## Portfolio Themes
+
+- Clinical analytics
+- Healthcare machine learning
+- Predictive modeling
+- Healthcare artificial intelligence
+- Generative AI
+- Clinical decision support
+- Healthcare operations
+- AI entrepreneurship
 
 ## Core Git and GitHub Concepts
 
