@@ -11,9 +11,11 @@ Create a reproducible learning and portfolio system for Healthcare AI and Data S
 - [x] Cloned the repository
 - [x] Created the initial folder structure
 - [x] Created and published the main README
-- [x] Completed the logistic-regression laboratory
-- [ ] Add the logistic-regression laboratory to this repository
-- [ ] Verify that the laboratory runs from beginning to end
+- [x] Completed the Week 3 Practice Lab: Logistic Regression
+- [x] Earned 100% on the graded programming assignment
+- [x] Confirmed the laboratory passed its tests and grader
+- [x] Created public completion evidence without publishing protected assignment code
+- [ ] Build an original diabetes-classification project using public or synthetic data
 - [x] Documented the core Git and GitHub concepts in the main README
 - [x] Completed the 0–3 baseline skills assessment
 - [x] Created the requirements environment file
