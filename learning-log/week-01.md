@@ -23,6 +23,27 @@ Create a reproducible learning and portfolio system for Healthcare AI and Data S
 - [x] Created the six required GitHub Issues
 - [x] Stated the portfolio goal and included all eight required portfolio themes
 
+## Udemy Day 6 — Functions and Reeborg Maze
+
+### Completion Evidence
+
+- [x] Completed the Reeborg Maze final project
+- [x] Refactored the solution into clearly named functions
+- [x] Reduced repetition in `turn_right()` by using a loop
+- [x] Tested a normal maze configuration
+- [x] Tested an unexpected randomized configuration
+- [x] Tested a boundary/custom configuration
+- [x] All three manual tests passed
+
+- [View refactored source code](../src/udemy_day_06_reeborg_maze.py)
+- [View manual test record](../tests/udemy_day_06_reeborg_maze_manual_tests.md)
+
+### Three-Sentence Reflection
+
+I learned how functions divide a program into smaller actions with clear responsibilities. I corrected repeated commands and separated maze initialization from the right-hand navigation logic. I can now explain how functions, `while` loops, conditional statements, and Reeborg's sensor functions work together to solve the maze.
+
+**Next action:** Validate, commit, and publish the refactored project, test evidence, and learning-log update.
+
 ## Concepts to Review
 
 - Precision
