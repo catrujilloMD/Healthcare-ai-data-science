@@ -23,6 +23,14 @@ Create a reproducible learning and portfolio system for Healthcare AI and Data S
 - [x] Created the six required GitHub Issues
 - [x] Stated the portfolio goal and included all eight required portfolio themes
 
+### Flask API Development
+
+- [x] Completed the IBM Flask lab covering routes, HTTP methods, JSON requests, universally unique identifier parameters, and global error handlers
+- [x] Built an original Flask health-check application with `GET /health`
+- [x] Added a structured JSON `404` error response
+- [x] Manually verified the `200` and `404` responses
+- [x] Added two automated tests and confirmed both passed
+
 ## Udemy Day 6 — Functions and Reeborg Maze
 
 ### Completion Evidence

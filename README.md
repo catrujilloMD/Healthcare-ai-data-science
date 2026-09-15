@@ -31,6 +31,29 @@ Build expertise at the intersection of Medicine + Data Science + Machine Learnin
 - Healthcare operations
 - AI entrepreneurship
 
+## Portfolio Projects
+
+### Flask Health Check API
+
+An original Flask application demonstrating a service health endpoint, consistent JSON responses, and automated API testing without using patient data.
+
+- `GET /health` returns the service name and a healthy status with HTTP 200.
+- Undefined routes return a structured JSON error with HTTP 404.
+- Automated tests verify status codes, content types, and response bodies.
+- Source: [`src/health_api.py`](src/health_api.py)
+- Tests: [`tests/test_health_api.py`](tests/test_health_api.py)
+
+Run the application:
+
+```powershell
+py src\health_api.py
+```
+
+Run the automated tests:
+
+```powershell
+py -m unittest discover -s tests -p "test_*.py"
+```
 ## Core Git and GitHub Concepts
 
 - **Git:** A version-control system that records changes made to files over time.
