@@ -53,27 +53,39 @@ I learned how functions divide a program into smaller actions with clear respons
 **Next action:** Validate, commit, and publish the refactored project, test evidence, and learning-log update.
 
 ## Concepts to Review
-
 - Precision
 - Recall
 - Logistic regression
 - Regularization
 - Training and testing datasets
 - Model overfitting
+### Week 1 Competency Ratings
+
+Scale: 1 = beginning, 3 = developing, 5 = independent
+
+| Competency | Rating |
+|---|---:|
+| Git and GitHub workflow | 3/5 |
+| Python functions and loops | 3/5 |
+| Logistic regression | 2/5 |
+| Flask and API concepts | 2/5 |
+| Manual and automated testing | 3/5 |
 
 ## Errors and Solutions
 
-| Problem | Cause | Solution | Lesson |
-|---|---|---|---|
-| _Add an error_ | _Add the cause_ | _Add the solution_ | _Add the lesson_ |
+- **Problem:** The `python` command pointed to a Python installation that no longer existed.
+- **Solution:** Used the working Windows Python launcher with `py` and installed Flask using `py -m pip install flask`.
+- **Problem:** The terminal layout made some HTTP headers and automated-test results difficult to see.
+- **Solution:** Used compact `curl.exe` commands and expanded the terminal to verify the HTTP status, content type, JSON response, and two passing tests.
+- **Lesson learned:** A dependency listed in `requirements.txt` is not automatically installed, and application behavior should be verified with both manual requests and automated tests.
 
 ## Weekly Reflection
 
 **What I learned:**  
-_Add your reflection here._
+I learned how to use Git and GitHub to document my work as evidence of my learning. I continued developing my Python skills by practicing functions, and I began working with logistic regression and Flask as part of my machine-learning journey.
 
 **What remains unclear:**  
-_Add the topics you need to review._
+I need more practice with logistic regression, especially interpreting the model, and with Flask, especially understanding how routes, requests, and responses work together.
 
 **Next action:**  
-Add and document the completed logistic-regression laboratory.
+Review logistic regression and Flask, practice both concepts with small projects, and begin the next week of the curriculum.
