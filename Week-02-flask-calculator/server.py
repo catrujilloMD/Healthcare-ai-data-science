@@ -39,5 +39,10 @@ def render_index_page():
 def calculator_status():
     return "Calculator is running"
 
+@app.route("/clinic/status")
+def clinic_status():
+    return "Demo clinic service is running"
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
